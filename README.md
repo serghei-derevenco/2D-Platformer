@@ -1,1 +1,1 @@
-# 2D-Platformer
+# Lab 3 for Technologies Multimedia
